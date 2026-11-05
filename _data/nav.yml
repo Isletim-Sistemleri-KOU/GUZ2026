@@ -1,0 +1,20 @@
+items:
+- url: /
+  name: Anasayfa
+  icon_class: fa fa-home fa-lg
+
+- url: /takvim/
+  name: Takvim
+  icon_class: fas fa-calendar-alt
+
+- url: /dersler/
+  name: Dersler
+  icon_class: fas fa-book-reader
+
+- url: /odevler/
+  name: Ödevler
+  icon_class: fas fa-user-graduate
+
+- url: /materyaller/
+  name: Materyaller
+  icon_class: fas fa-book
