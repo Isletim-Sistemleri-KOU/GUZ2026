@@ -5,7 +5,7 @@ title: Giriş
 
 # optional
 # please use /static_files/notes directory to store notes
-thumbnail: /_images/l1.png
+thumbnail: /_images/l1.jpg
 
 # optional
 tldr: "Bu derste İşletim Sistemleri dersine giriş yapılacaktır."
